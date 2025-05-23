@@ -75,18 +75,3 @@ SVM examples will generate:
 Decision boundary visualizations
 Classification metrics
 Model comparison plots
-
-
-
-Notes
-
-Some examples may take longer to run depending on dataset size and model complexity
-Visualizations require a working display or proper backend configuration
-Random state is set in some examples for reproducibility
-
-License
-This code is licensed under the BSD 3-Clause License. See LICENSE file for details.
-Credits
-
-Original code examples from scikit-learn documentation
-Comments and explanations created through collaboration between Claude (Anthropic) and the user
